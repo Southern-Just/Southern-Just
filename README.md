@@ -23,4 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Southern-Just&show_icons=true&locale=en" alt="Southern-Just" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Southern-Just&" alt="Southern-Just" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Southern-Just&show_icons=true&locale=en&layout=compact" alt="Southern-Just" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Southern-Just" alt="Southern-Just" /></a></p>
