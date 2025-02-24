@@ -1,4 +1,4 @@
-![My Profile Image](sajoh.png)
+![My Profile Image](profile.png)
 
 
 
